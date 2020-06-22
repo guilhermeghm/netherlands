@@ -1,4 +1,4 @@
-# netherlands
+# Netherlands
 
 I'm stuck in ZA due to Covid and The Netherlands consulate is closed until further notice. To reduce my work to visit the consulate site everyday, I'm writing a Python script to check this information for me.
 
